@@ -1,4 +1,5 @@
 You control a spaceship, and there are asteroids flying in every direction that
-you must dodge. This is a fun project to explore ncurses so I don't plan on
-doing anything with this any longer.
+you must dodge. This is just a fun project to explore ncurses so I don't plan on
+adding more stuffs (approximately half the code are placeholder for features
+that will never come)
 
